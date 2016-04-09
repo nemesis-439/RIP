@@ -1,0 +1,17 @@
+^sshd(\(|\:|\[)
+^ntpd(\(|\:|\[)
+^su(\(|\:|\[)
+^sudo(\(|\:|\[)
+^login(\(|\:|\[)
+^syslog?(\(|\:|\[)
+^ftpd(\(|\:|\[)
+^passwd(\(|\:|\[)
+^root(\(|\:|\[)
+^useradd(\(|\:|\[)
+^userdel(\(|\:|\[)
+^syslog-ng(\(|\:|\[)
+shutdown\:
+rlogind\[
+ntpdate\[
+proftpd\[
+rshd\[

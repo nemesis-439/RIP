@@ -1,0 +1,9 @@
+^<HTTP_RESPONSE>: F5acclog:"200"
+^<HTTP_RESPONSE>: F5acclog:"302"
+^<HTTP_RESPONSE>: F5acclog:"304"
+^<HTTP_RESPONSE>: F5acclog:"404"
+^<HTTP_RESPONSE>: F5acclog:"301"
+^<HTTP_RESPONSE>: F5acclog:"500"
+^<HTTP_RESPONSE>: F5acclog:"206"
+^<HTTP_RESPONSE>: F5acclog:"400"
+^<HTTP_RESPONSE>:

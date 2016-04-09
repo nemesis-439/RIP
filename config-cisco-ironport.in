@@ -1,0 +1,66 @@
+^New SMTP ICID (\d+)
+^ICID (\d+) ACCEPT
+^ICID (\d+) REJECT
+^ICID (\d+) close
+^ICID (\d+) Address
+^ICID (\d+) RELAY
+^ICID (\d+) disconnected
+^ICID (\d+) Receiving
+^ICID (\d+) lost
+^ICID (\d+) Unknown command:
+^ICID (\d+) Invalid sender address: 
+^Start MID (\d+) ICID (\d+)
+^MID (\d+) ICID (\d+) From:
+^MID (\d+) ICID (\d+) To:
+^MID (\d+) ICID (\d+) RID (\d+) To:
+^MID (\d+) ICID (\d+) RID (\d+) recipient 
+^MID (\d+) ICID (\d+) invalid bounce
+^MID (\d+) ICID (\d+) LDAPACCEPT 
+^MID (\d+) Message-ID 
+^MID (\d+) Subject
+^MID (\d+) ready
+^MID (\d+) matched
+^MID (\d+) interim
+^MID (\d+) using
+^MID (\d+) antivirus 
+^MID (\d+) Outbreak
+^MID (\d+) queued
+^MID (\d+) RID.+Response
+^MID (\d+) to RID.+pending
+^MID (\d+) was too big
+^MID (\d+) attachment
+^MID (\d+) masquerading envelope 
+^MID (\d+) masquerading header
+^MID (\d+) CASE could not be reached 
+^MID (\d+) quarantined to 
+^MID (\d+) rewritten to MID (\d+)
+^MID (\d+) was generated based on MID (\d+)
+^MID (\d+) was generated for bounce of MID (\d+)
+^MID (\d+), Message Scanning Problem:
+^MID (\d+): scanning error 
+^Message finished MID (\d+)
+^Message aborted MID (\d+)
+^Double bounce: MID 
+^Alias match: MID (\d+) RID (\d+) recipient 
+^New SMTP DCID (\d+)
+^DCID (\d+) close
+^Delivery start DCID (\d+) MID (\d+)
+^Message done DCID (\d+) MID (\d+)
+^Connection Error: DCID: (\d+)
+^Bounced: DCID (\d+) MID (\d+) to RID (\d+)
+^Delayed: DCID (\d+) MID (\d+) to RID (\d+) 
+^Possible Delivery: DCID (\d+) MID (\d+) to RID
+^Mail delivery client with DCID (\d+) 
+^SenderBase upload:
+^Outbreak Rule:
+^DNS Temporary Failure
+^DNS Error
+^Maximum DNS recursion level 
+^Received an invalid DNS Response:
+^CASE cache status:
+^Scanning
+^Done scanning
+^Queue: Checkpoint Started
+^Queue: Checkpoint Finished
+^System limit reached:
+^nameserver resolution path 
